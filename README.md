@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Jay  
 
-<!--
-**save-as-jpg/save-as-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **AI & Machine Learning Enthusiast** exploring **computer vision** and **deep learning**. Currently, I'm working on **Skateboard Presence Detection AI** for my portfolio.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On:
+- 🛹 **Skateboard Presence Detection Model** (Fine-tuning a ResNet50 model)
+- 📚 Learning **AI Training (Data Labeling & Fine-Tuning)**
+- 🎨 Building **Alien Regime**, a skateboard & streetwear brand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack:
+- **Python**, **PyTorch**, **TensorFlow**, **OpenCV**
+- **Git & GitHub**, **FastAPI**
+- **Blender (3D Animation)**
+
+### 📌 Connect with Me:
+- 🔗 [LinkedIn](www.linkedin.com/in/save-as-jpg)
+- 📂 [GitHub Portfolio](www.github.com/save-as-jpg)
