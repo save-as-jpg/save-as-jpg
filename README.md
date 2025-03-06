@@ -14,5 +14,5 @@ I'm a passionate **AI & Machine Learning Enthusiast** exploring **computer visio
 - 🛹 **Blender (3D Animation)**
 
 ### 📌 Connect with Me:
-- 🔗 [LinkedIn](www.linkedin.com/in/save-as-jpg)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jay-emmanuel-16999831a/)
 - 📂 [GitHub Portfolio](www.github.com/save-as-jpg)
