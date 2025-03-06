@@ -8,9 +8,10 @@ I'm a passionate **AI & Machine Learning Enthusiast** exploring **computer visio
 - 🎨 Building **Alien Regime**, a skateboard & streetwear brand
 
 ### 🔧 Tech Stack:
-- **Python**, **PyTorch**, **TensorFlow**, **OpenCV**
+- **Python**, **PyTorch**, **OpenCV**
 - **Git & GitHub**, **FastAPI**
-- **Blender (3D Animation)**
+- 🎨 **Adobe Photoshop, Illustrator** (Graphic & Apparel Design)
+- 🛹 **Blender (3D Animation)**
 
 ### 📌 Connect with Me:
 - 🔗 [LinkedIn](www.linkedin.com/in/save-as-jpg)
